@@ -1,5 +1,0 @@
-[01-Feb-2019 04:11:01 Asia/Jakarta] PHP Fatal error:  Class 'Walker' not found in /home/glor2773/public_html/wp-includes/class-walker-nav-menu.php on line 17
-[27-Feb-2019 09:29:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/glor2773/public_html/wp-includes/locale.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/glor2773/public_html/wp-includes/locale.php on line 10
